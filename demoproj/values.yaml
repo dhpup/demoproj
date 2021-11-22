@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: dhpup/demoproj
+  repository: Docker_Hub_Username/demoproj
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
